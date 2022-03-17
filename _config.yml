@@ -14,6 +14,7 @@ urls:
     url: /blog
   - text: Gallery
     url: /gallery
+
 author_logo: profile.png
 author: Inhu Kim
 author_bio: 'Hi, my name is Inhu Kim :D'
@@ -25,7 +26,7 @@ author_work_experiences: null
 author_education_details: null
 author_project_details: null
 github_username: InhuKim
-hyvor_talk_website_id: 476
+#hyvor_talk_website_id: 476
 formspree_email: markaki72@gmail.com
 olvy_organization: devlopr
 olvy_widget_type: sidebar
